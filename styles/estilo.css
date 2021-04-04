@@ -1,0 +1,37 @@
+﻿body {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 0.8em;
+}
+
+form {
+    margin: auto;
+    width: 95%;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px black;
+    background-color: #fffcd6;
+}
+
+.box-cep {
+    margin: 15px 0px;
+}
+label {
+    margin-left: 15px;
+}
+input {
+    margin-left: 5px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px;
+    box-shadow: 1px 1px 3px black;
+    outline: none;
+}
+
+#cep {
+    width: 85px;
+}
+
+#complemento {
+    width: 100px;
+}
